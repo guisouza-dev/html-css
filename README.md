@@ -25,7 +25,7 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex016/cor02.html" target="_blank" rel="external">Cor02</a></li>
             <li><a href="https://guisouza-dev.io/html-css/exercicios/ex016/cor03.html" target="_blank" rel="external">Cor03</a></li>
         </ul>
-    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex017/font01.html" target="_blank" rel="external">Exercício 17</a></li>
+    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex017/fonte01.html" target="_blank" rel="external">Exercício 17</a></li>
         <ul>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex017/font02.html" target="_blank" rel="external">Fonte02</a></li>
         </ul>
