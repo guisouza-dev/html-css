@@ -3,32 +3,7 @@
 
 Atualmente na parte intermediária do curso de HTML5 e CSS3
 
-<style>
-
-    h2, a {
-        font-family: Arial, Helvetica, sans-serif;
-    }
-
-    div > a {
-        display: none;
-    }
-
-    div > a:hover {
-        display: block;
-        color: blue;
-        font-weight: bold;
-    }
-
-    a {
-        text-decoration: none;
-        font-weight: normal;
-        color: black;
-    }
-
-</style>
-
-<div>
-    <h2>Exercícios</h2>
+<h2>Exercícios</h2>
     <a href="https://guisouza-dev.github.io/html-css/exercicios/ex001" target="_self" rel="next">Exercício 1</a>
     <a href="https://guisouza-dev.github.io/html-css/exercicios/ex002" target="_self" rel="next">Exercício 2</a>
     <a href="https://guisouza-dev.github.io/html-css/exercicios/ex003" target="_self" rel="next">Exercício 3</a>
@@ -51,18 +26,17 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
     <a href="https://guisouza-dev.github.io/html-css/exercicios/ex019" target="_self" rel="next">Exercício 19</a>
     <a href="https://guisouza-dev.github.io/html-css/exercicios/ex020" target="_self" rel="next">Exercício 20</a>
     <a href="https://guisouza-dev.github.io/html-css/exercicios/ex021" target="_self" rel="next">Exercício 21</a>
-</div>
-<div>
-    <h2>Desafios</h2>
+
+<h2>Desafios</h2>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d005" target="_self" rel="next">Desafio 5</a>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d006" target="_self" rel="next">Desafio 6</a>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d007" target="_self" rel="next">Desafio 7</a>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d008" target="_self" rel="next">Desafio 8</a>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d009" target="_self" rel="next">Desafio 9</a>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d010" target="_self" rel="next">Desafio 10</a>
-</div> 
-<div>
-    <h2>Meu primeiro projeto</h2>
+ 
+
+<h2>Meu primeiro projeto</h2>
     <a href="https://guisouza-dev.github.io/html-css/desafios/d010/android.html" target="_self" rel="next"></a>
-</div>
+
 
