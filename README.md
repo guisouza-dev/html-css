@@ -29,8 +29,7 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
         <ul>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex017/font02.html" target="_blank" rel="external">Fonte02</a></li>
         </ul>
-    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex018" target="_self" rel="next">Exercício 18</a></li>
-            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex018/font01.html" target="_blank" rel="external">Exercício 18</a></li>
+    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex018/font01.html" target="_blank" rel="external">Exercício 18</a></li>
         <ul>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex018/font02.html" target="_blank" rel="external">Fonte02</a></li>
         </ul>
@@ -40,10 +39,10 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex020/links.html" target="_blank" rel="external">Links</a></li>
             <li><a href="https://guisouza-dev.io/html-css/exercicios/ex020/pseudo-classe.html" target="_blank" rel="external">Pseudo-Classes</a></li>
         </ul>
-    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex021/cor01.html" target="_blank" rel="external">Exercício 21</a></li>
+    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="external">Exercício 21</a></li>
         <ul>
-            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex21/cor02.html" target="_blank" rel="external">Cor02</a></li>
-            <li><a href="https://guisouza-dev.io/html-css/exercicios/ex021/cor02b.html" target="_blank" rel="external">Cor02b</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex21/caixa02.html" target="_blank" rel="external">Caixa02</a></li>
+            <li><a href="https://guisouza-dev.io/html-css/exercicios/ex021/caixa02b.html" target="_blank" rel="external">Caixa02b</a></li>
         </ul>
 </ul>
 
