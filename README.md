@@ -41,6 +41,8 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
  
 
 <h2>Meu primeiro projeto</h2>
-<a href="https://guisouza-dev.github.io/projeto-android/" target="_self" rel="next"></a>
+<a href="https://guisouza-dev.github.io/projeto-android/" target="_self" rel="next">Abra o link</a>
+<p>ou</p>
+<img src="Projeto_Android.png" alt="QR Code">
 
 
