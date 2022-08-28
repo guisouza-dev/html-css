@@ -44,12 +44,12 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex21/caixa02.html" target="_blank" rel="external">Caixa02</a></li>
             <li><a href="https://guisouza-dev.io/html-css/exercicios/ex021/caixa02b.html" target="_blank" rel="external">Caixa02b</a></li>
         </ul>
-    <li><a href="https://guisouza-dev.io/html-css/exercicios/ex022/fundo001.html" target="_blank" rel="external">Exercício 22</a></li>
+    <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank" rel="external">Exercício 22</a></li>
         <ul>
-            <li><a href="https://guisouza-dev.io/html-css/exercicios/ex022/fundo002.html" target="_blank" rel="external">Fundo 02</a></li>
-            <li><a href="https://guisouza-dev.io/html-css/exercicios/ex022/fundo003.html" target="_blank" rel="external">Fundo 03</a></li>
-            <li><a href="https://guisouza-dev.io/html-css/exercicios/ex022/fundo004.html" target="_blank" rel="external">Fundo 04</a></li>
-            <li><a href="https://guisouza-dev.io/html-css/exercicios/ex022/fundo005.html" target="_blank" rel="external">Fundo 05</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank" rel="external">Fundo 02</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank" rel="external">Fundo 03</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank" rel="external">Fundo 04</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank" rel="external">Fundo 05</a></li>
         </ul>
 </ul>
 
