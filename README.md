@@ -51,6 +51,7 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank" rel="external">Fundo 04</a></li>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank" rel="external">Fundo 05</a></li>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank" rel="external">Fundo 06</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank" rel="external">Fundo 07</a></li>
         </ul>
 </ul>
 
