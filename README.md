@@ -56,7 +56,7 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
     <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela001.html" target="_blank" rel="external">Exercício 23</a></li>
         <ul>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela002.html" target="_blank" rel="external">Tabela 002</a></li>
-            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela00.html" target="_blank" rel="external">Tabela 003</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela003.html" target="_blank" rel="external">Tabela 003</a></li>
         </ul>
 </ul>
 
@@ -70,7 +70,10 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
     <li><a href="https://guisouza-dev.github.io/html-css/desafios/d010/android.html" target="_blank" rel="external">Desafio 10</a></li>
     <li><a href="https://guisouza-dev.github.io/html-css/desafios/lista-de-jogos-favoritos/index.html" target="_blank" rel="external">Lista de jogos favoritos</a></li>
     <li><a href="https://guisouza-dev.github.io/html-css/desafios/d012/index.html" target="_blank" rel="external">Desafio 12</a></li>
-</ul>
+    <li><a href="https://guisouza-dev.github.io/html-css/desafios/d013/desafio13-001.html" target="_blank" rel="external">Desafio 13</a></li>
+        <ul>
+            <li><a href="https://guisouza-dev.github.io/html-css/desafios/d013/desafio13-002.html" target="_blank" rel="external">Desafio 13 (parte 2)</a></li>
+        </ul>
 
 <h2>Meu primeiro projeto</h2>
 <a href="https://guisouza-dev.github.io/projeto-android/" target="_blank" rel="external">Abra o link</a>
@@ -78,6 +81,6 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
 <img src="Projeto_Android.png" alt="QR Code">
 
 <h2>Projeto Cordel</h2>
-<a href="htttps://guisouza-dev.github.io/projeto-cordel/" target="_blank" rel="external">Abra este link</a>
+<a href="https://guisouza-dev.github.io/projeto-cordel/" target="_blank" rel="external">Abra este link</a>
 
 
