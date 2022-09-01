@@ -58,6 +58,8 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela002.html" target="_blank" rel="external">Tabela 002</a></li>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela003.html" target="_blank" rel="external">Tabela 003</a></li>
             <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela004.html" target="_blank" rel="external">Tabela 004</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela005.html" target="_blank" rel="external">Tabela 005</a></li>
+            <li><a href="https://guisouza-dev.github.io/html-css/exercicios/ex023/tabela006.html" target="_blank" rel="external">Tabela 006</a></li>
         </ul>
 </ul>
 
