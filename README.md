@@ -75,6 +75,7 @@ Atualmente na parte intermediária do curso de HTML5 e CSS3
         <ul>
             <li><a href="https://guisouza-dev.github.io/html-css/desafios/d013/desafio13-002.html" target="_blank" rel="external">Desafio 13 (parte 2)</a></li>
         </ul>
+    <li><a href="https://guisouza-dev.github.io/html-css/desafios/d014/desafio-14.html" target="_blank" rel="external">Desafio 14</a></li>
 
 <h2>Meu primeiro projeto</h2>
 <a href="https://guisouza-dev.github.io/projeto-android/" target="_blank" rel="external">Abra o link</a>
