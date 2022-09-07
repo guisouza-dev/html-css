@@ -21,17 +21,13 @@
             padding: 10px;
         }
 
-        input {
-            margin: 10px;
-            padding: 5px;
-        }
     </style>
 </head>
 <body>
     <h1>Meu primeiro formulário</h1>
-    <form action="">
-        <p>Nome: <input type="text" name="nome" id="nome"></p>
-        <p>Sobrenome: <input type="text" name="sobrenome" id="sobrenome"></p>
+    <form action="cadastro.php" autocomplete="off">
+        <p><label for="inome">Nome:</label> <input type="text" name="nome" id="inome"></p>
+        <p><label for="isobrenome">Sobrenome:</label> <input type="text" name="sobrenome" id="isobrenome"></p>
         <p><input type="submit" value="Enviar"></p>
     </form>
 </body>
