@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/* Estilo para impressoras */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+menu {
+    display: none;
+}
+
+article {
+    width: 100%;
+}
+
+article::after {
+    content: 'Esse artigo foi impresso através do site: https://guisouza-dev.github.io/html-css/exercicios/ex026/mq001/index.html';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+    font-weight: 100;
+}
+
+iframe {
+    display: none;
+}
