@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* declarações gerais */
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Asap', sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #233eff;
+}
+
+h1 {
+    padding: 10px;
+    color: whitesmoke;
+}
+/* declarações modo retrato */
+@media screen and (orientation: portrait) {
+    body {
+        background-image: url('../imagens/cev-portrait.jpg');
+        background-position: center bottom;
+}
+}
+/* declarações modo paisagem */
+@media screen and (orientation: landscape) {
+    body {
+        background-image: url('../imagens/cev-landscape.jpg');
+        background-position: left bottom;
+    }
+}
